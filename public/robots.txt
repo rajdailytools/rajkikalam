@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /saved/
+Disallow: /admin/
+
+Sitemap: https://rajkikalam.in/sitemap.xml

@@ -1,0 +1,6 @@
+{
+  "name": "Raj Ki Kalam",
+  "description": "Premium Hindi Shayari, English Poetry, Quotes, Poems, and Status platform. Alfaaz • Ehsaas • Poetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
